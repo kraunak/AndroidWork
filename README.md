@@ -1,3 +1,3 @@
-# Brandweb cross platform application
+# Brandweb Mobile Application
 
-Android and iOS application for account managment.
+A cross platform (Android and iOS) application for account managment.
