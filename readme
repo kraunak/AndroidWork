@@ -1,9 +1,0 @@
-Git Guide
-
-Commands
-
-> git pull - Download remote code base to local repository.
-> git gui  - Graphical tool to commit.
-> git push - Upload changes to remote branch.
-> git checkout - Switch branch
-> git help - View help in console.
